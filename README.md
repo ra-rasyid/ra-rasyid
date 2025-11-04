@@ -23,7 +23,7 @@
 
 | My GitHub Statistics | My Programming Languages |
 |----------------------|---------------------------|
-| ![Rasyid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ra-rasyid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ra-rasyid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff) |
+| ![Rasyid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ra-rasyid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ra-rasyid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff) |
 
 ---
 
